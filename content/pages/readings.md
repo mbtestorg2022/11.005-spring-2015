@@ -290,7 +290,7 @@ Development Strategies by Late-industrializing Countries
 
 Amsden, Alice. "Introduction." In _The Rise of the Rest: Challenges to the West from Late-industrializing Economies_. Oxford University Press, 2001. ISBN: 9780195139693. \[Preview with [Google Books](http://books.google.com/books?id=hPHevolsLKMC&pg=PA1=onepage)\]
 
-Bruton, Henry J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Reconsideration of Import Substitution." (PDF 4.7MB)](https://pseudoerasmus.files.wordpress.com/2017/01/bruton-1998-a-reconsideration-of-import-substitution.pdf) _Journal of Economic Literature_ 36, no. 2 (1998): 903–36.
+Bruton, Henry J. ["A Reconsideration of Import Substitution." (PDF 4.7MB)](https://pseudoerasmus.files.wordpress.com/2017/01/bruton-1998-a-reconsideration-of-import-substitution.pdf) _Journal of Economic Literature_ 36, no. 2 (1998): 903–36.
 
 ### Optional Readings
 
@@ -332,7 +332,7 @@ Kindleberger, Charles. "Anatomy of a Typical Crisis." In _Manias, Panics and Cra
 
 Kahler, Miles. "[Politics and International Debt: Explaining the Crisis](http://dx.doi.org/10.1017/S0020818300019123)." _International Organization_ 39, no. 3 (1985): 357–82.
 
-Broad, Robin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Washington Consensus Meets the Global Backlash: Shifting Debates and Policies." (PDF)](http://www.international.ucla.edu/media/files/42.pdf) _Globalizations_ 1, no. 2 (2004): 129–54.
+Broad, Robin. ["The Washington Consensus Meets the Global Backlash: Shifting Debates and Policies." (PDF)](http://www.international.ucla.edu/media/files/42.pdf) _Globalizations_ 1, no. 2 (2004): 129–54.
 
 Stiglitz, Joseph E. _Globalization and its Discontents_. W. W. Norton & Company, 2003. ISBN: 9780393324396.
 
@@ -452,13 +452,13 @@ Fischer, Andrew M. "[Putting Aid in its Place: Insights from Early Structuralist
 
 Bagwell, Kyle, and Staiger, Robert W. "Can the Doha Round Be a Development Round?" In _Globalization in An Age of Crisis: Multilateral Economic Cooperation in the Twenty-first Century_. University Of Chicago Press, 2011. ISBN: 9780226030753. \[Preview with [Google Books](http://books.google.com/books?id=vPlhAgAAQBAJ&pg=PA91#v=onepage)\]
 
-Bellmann, Christophe, and Miguel Rodriguez Mendoza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Future and the WTO: Confronting the Challenges, A Collection of Short Essays." (PDF)](https://edisciplinas.usp.br/pluginfile.php/79786/mod_resource/content/1/the-future-and-the-wto-confronting-the-challenges.pdf) Edited by R. Meléndez-Ortiz. _The International Centre for Trade and Sustainable Development (ICTSD)_, 2012.
+Bellmann, Christophe, and Miguel Rodriguez Mendoza. ["The Future and the WTO: Confronting the Challenges, A Collection of Short Essays." (PDF)](https://edisciplinas.usp.br/pluginfile.php/79786/mod_resource/content/1/the-future-and-the-wto-confronting-the-challenges.pdf) Edited by R. Meléndez-Ortiz. _The International Centre for Trade and Sustainable Development (ICTSD)_, 2012.
 
 Stiglitz, Joseph E., and Andrew Charlton. _The Right to Trade: Rethinking the Aid for Trade Agenda_. Commonwealth Secretariat, 2013. ISBN: 9781849291057. \[Preview with [Google Books](http://books.google.com/books?id=KbPV80OP2uQC&pg=PAfrontcover)\]
 
 Janský, Petr. "[Illicit Financial Flows and The 2013 Commitment to Development Index](http://www.cgdev.org/publication/illicit-financial-flows-and-2013-commitment-development-index)." _Center for Global Development_, 2013.
 
-Shaxson, Nicholas, and John Christensen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Finance Curse: How Oversized Financial Sectors Attack Democracy and Corrupt Economics." (PDF - 1.9MB)](http://www.taxjustice.net/cms/upload/pdf/Finance_Curse_Final.pdf) 2013.
+Shaxson, Nicholas, and John Christensen. ["The Finance Curse: How Oversized Financial Sectors Attack Democracy and Corrupt Economics." (PDF - 1.9MB)](http://www.taxjustice.net/cms/upload/pdf/Finance_Curse_Final.pdf) 2013.
 
 Harvey, David. _The Enigma of Capital: And The Crises of Capitalism_. Oxford university Press, 2011. ISBN: 9780199836840.
 
@@ -562,7 +562,7 @@ Bishop, Matthew, and Michael Green. Chapters 1 and 15 in _Philanthrocapitalism: 
 
 ### Optional Readings
 
-Sanyal, Bishwapriya. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Myth of Development From Below." (PDF)](http://web.mit.edu/sanyal/www/articles/Myth%20of%20Dev.pdf) Mimeo Department of Urban Studies and Planning, Massachusetts Institute of Technology, 1996.
+Sanyal, Bishwapriya. ["The Myth of Development From Below." (PDF)](http://web.mit.edu/sanyal/www/articles/Myth%20of%20Dev.pdf) Mimeo Department of Urban Studies and Planning, Massachusetts Institute of Technology, 1996.
 
 Tendler, Judith. "[What Ever Happened to Poverty Alleviation?](http://dx.doi.org/10.1016/0305-750X(89)90166-6)" _World Development_ 17, no. 7 (1989): 1033–44.
 
@@ -570,7 +570,7 @@ Powell, Walter. W., and Steinberg, Richard, eds. _The Nonprofit Sector: A Resear
 
 Fowler, Alan, ed. _Striking a Balance: A Guide to Enhancing the Effectiveness of Non-governmental Organisations in International Development_. Routledge, 2009. ISBN: 9781853833250.
 
-Sanyal, Bishwapriya. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cooperative Autonomy: The Dialectic of State-NGP Relationship in Developing Countries." (PDF)](http://sanyal.scripts.mit.edu/site/articles/CooperativeAutonomy.pdf) _International Institute of Labor Studies: Geneva_, 1994.
+Sanyal, Bishwapriya. ["Cooperative Autonomy: The Dialectic of State-NGP Relationship in Developing Countries." (PDF)](http://sanyal.scripts.mit.edu/site/articles/CooperativeAutonomy.pdf) _International Institute of Labor Studies: Geneva_, 1994.
 
 Fayolle, Alain, and H. Matlay, eds. _Handbook of Research on Social Entrepreneurship_. Edward Elgar Publishing, 2010. ISBN: 9781848440968.
 
@@ -672,7 +672,7 @@ Levy, Santiago. _Progress Against Poverty: Sustaining Mexico's Progresa-oportuni
 
 Ansell, Aaron. Chapter 4 in _Zero Hunger: Political Culture and Antipoverty Policy in Northeast Brazil_. The University of North Carolina Press, 2014. ISBN: 9781469613970. \[Preview with [Google Books](http://books.google.com/books?id=QIZgAwAAQBAJ&pg=PAfrontcover)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Program Institutional Design. ["Series: Scaling Up Local Innovations for Transformational Change." (PDF)](http://www.undp.org/content/dam/undp/library/Poverty%20Reduction/Participatory%20Local%20Development/Mexico_Progresa_web.pdf) Mexico: Scaling Up Progresa / Oportunidades-CCT's. UNDP, November 2011.
+Program Institutional Design. ["Series: Scaling Up Local Innovations for Transformational Change." (PDF)](http://www.undp.org/content/dam/undp/library/Poverty%20Reduction/Participatory%20Local%20Development/Mexico_Progresa_web.pdf) Mexico: Scaling Up Progresa / Oportunidades-CCT's. UNDP, November 2011.
 
 Levy, Santiago. Chapters 2 and 3 in _Progress Against Poverty: Sustaining Mexico's Progresa-Oportunidades Program_. Brookings Institution, 2006. ISBN: 9780815752219.
 
@@ -680,7 +680,7 @@ Hirschman, Albert O. _Development Projects Observed_. Brookings Institution Pres
 
 Batley, Richard. "[The Politics of Service Delivery Reform](http://dx.doi.org/10.1111/j.1467-7660.2004.00341.x)." _Development and Change_ 35, no. 1 (2004): 31–56.
 
-Rasul, Imran, and Daniel Rogger. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Management of Bureaucrats and Public Service Delivery: Evidence from the Nigerian Civil Service." (PDF - 1.2MB)](http://www.theigc.org/wp-content/uploads/2014/09/Rasul-Rogger-2013-Working-Paper.pdf) _Working Paper University College London_, 2013.
+Rasul, Imran, and Daniel Rogger. ["Management of Bureaucrats and Public Service Delivery: Evidence from the Nigerian Civil Service." (PDF - 1.2MB)](http://www.theigc.org/wp-content/uploads/2014/09/Rasul-Rogger-2013-Working-Paper.pdf) _Working Paper University College London_, 2013.
 
 Adler, Daniel, Caroline Sage, et al. "[Interim Institutions and the Development Process: Opening Spaces for Reform in Cambodia and Indonesia](http://dx.doi.org/10.2139/ssrn.1421808)." Brooks World Poverty Institute Working Paper No. 86, 2009.
 
